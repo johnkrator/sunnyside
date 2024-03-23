@@ -15,3 +15,7 @@ html {
     font-style: normal;
     background: #e9edc9;
 }
+
+.side-nav-open {
+    transform: translateX(0) !important;
+}
